@@ -1,4 +1,4 @@
-# Vu Thanh
+# Vu Ba Thanh
 
 Information Security student at Ho Chi Minh City University of Industry and Trade (HUIT), focused on the SOC Analyst track. I work across coursework and independent projects, from applied research to full desktop applications.
 
